@@ -12,6 +12,7 @@ h3{
     font-size: 17px;
     padding-bottom: 38px;
 }
+
 section{
     display: flex;
     padding-left: 76px;
@@ -41,6 +42,16 @@ section{
 .section-girl{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    padding-bottom: 10px;
     
     
+}
+.recipies h1{
+    text-align: center;
+    font-size: 40px;
+}
+.recipies h4{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
 }
